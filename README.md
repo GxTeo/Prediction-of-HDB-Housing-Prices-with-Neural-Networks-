@@ -1,2 +1,2 @@
-# CE4042-Neural-Network-Assignment_1
-CE4042 Neural Network Assignment_1
+# Prediction of HDB Housing Prices with Neural Networks 
+Prediction of HDB Housing Prices with Neural Networks 
